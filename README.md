@@ -1,4 +1,5 @@
 In this project, Vrinda store wants to create an annual sales report for the year 2022. So that Vrinda can understand her customers and grow more sales in the coming years.
+
 SAMPLE QUESTIONS:
 1. Compare the sales and orders using single chart.
 2. Which month got the highest sales and orders?
